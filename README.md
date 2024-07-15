@@ -10,3 +10,13 @@ https://picoctf.org/
 #Foresenics CTF writeup link
 
 https://docs.google.com/document/d/14Fh_nDTPc51eC6y-TSlQz74yGs8eAJVwUm7AxTbCN0Y/edit
+
+
+Also will be adding a kali linux command line cheat sheet resource. Great for beginner to advance level 
+https://www.geeksforgeeks.org/linux-commands-cheat-sheet/
+
+if you have more question on linux command line and the options you can always type this in the terminal 
+[command] -help
+man [command
+command --help
+
