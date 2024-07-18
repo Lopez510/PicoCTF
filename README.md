@@ -1,4 +1,4 @@
-I like to demonstrate my knowledge of various areas of Cybersecurity domains. What better way to flex my muscle then on Capture the Flag events that allow me to reverse engineer and achieve the flag by any means. 
+I like to demonstrate my knowledge of various areas of Cybersecurity domains. What better way to flex my muscle than on Capture the Flag events that allow me to reverse engineer and achieve the flag by any means. 
 
 
 PicoCTF
@@ -17,6 +17,6 @@ https://www.geeksforgeeks.org/linux-commands-cheat-sheet/
 
 if you have more question on linux command line and the options you can always type this in the terminal 
 [command] -help
-man [command
-command --help
+man [command]
+[command] --help
 
