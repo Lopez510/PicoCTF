@@ -16,7 +16,10 @@ Also will be adding a kali linux command line cheat sheet resource. Great for be
 https://www.geeksforgeeks.org/linux-commands-cheat-sheet/
 
 if you have more question on linux command line and the options you can always type this in the terminal 
+
 [command] -help
+
 man [command]
+
 [command] --help
 
