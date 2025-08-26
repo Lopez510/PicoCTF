@@ -1,4 +1,4 @@
-I like to demonstrate my knowledge of various areas of Cybersecurity domains. What better way to flex my muscle than on Capture the Flag events that allow me to reverse engineer and achieve the flag by any means. 
+I like to demonstrate my knowledge of various areas of Cybersecurity domains. What better way to flex my muscle than on Capture the Flag events that allow me to reverse engineer and achieve the flag.
 
 
 PicoCTF
